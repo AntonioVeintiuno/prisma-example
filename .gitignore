@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# SQlite db
+prisma/dev.db
+prisma/dev.db-journal
 # Logs
 logs
 *.log
